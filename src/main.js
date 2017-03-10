@@ -1,0 +1,1 @@
+console.log('This is an extremely trivial JS files, just for demo purposes.');
