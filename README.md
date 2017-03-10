@@ -1,6 +1,6 @@
 # webpack-system-register, issue 12
 
-ref: [CanopyTax/webpack-system-register#12](CanopyTax/webpack-system-register#12)
+ref: [CanopyTax/webpack-system-register#12](https://github.com/CanopyTax/webpack-system-register/issues/12)
 
 ## How to run locally
 
